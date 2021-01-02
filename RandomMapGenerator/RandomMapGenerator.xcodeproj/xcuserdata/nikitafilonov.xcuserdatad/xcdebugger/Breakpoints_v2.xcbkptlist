@@ -1,0 +1,597 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "369A7C45-424E-4165-BE18-B870E6E9B086"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "1BE8DAED-76F4-4C51-8B01-E7057B99A4F2"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "RandomMapGenerator/RandomMapView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "40"
+            endingLineNumber = "40"
+            landmarkName = "generate()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "03603FF4-34B7-4C81-AFFB-100067AAA80D"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "RandomMapGenerator/RandomMapView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "230"
+            endingLineNumber = "230"
+            landmarkName = "make()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "8DBE1412-B37F-44CC-AF14-3B9AF1F8D257"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "RandomMapGenerator/RandomMapView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "210"
+            endingLineNumber = "210"
+            landmarkName = "make()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "D789DCE3-98B5-49E9-BB5F-090260D3F3AD"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "RandomMapGenerator/RandomMapView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "266"
+            endingLineNumber = "266"
+            landmarkName = "makeCorridors()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "D789DCE3-98B5-49E9-BB5F-090260D3F3AD - 29a1bef3d9e4796b"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "RandomMapGenerator.RandomMapView.(makeCorridors in _F052088115CB18357B8486ACFC779EFD)() -&gt; ()"
+                  moduleName = "RandomMapGenerator"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/nikitafilonov/Documents/free/RandomMapGenerator/RandomMapGenerator/RandomMapView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "230"
+                  endingLineNumber = "230"
+                  offsetFromSymbolStart = "3959">
+               </Location>
+               <Location
+                  uuid = "D789DCE3-98B5-49E9-BB5F-090260D3F3AD - 29a1bef3d9e4796b"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "RandomMapGenerator.RandomMapView.(makeCorridors in _F052088115CB18357B8486ACFC779EFD)() -&gt; ()"
+                  moduleName = "RandomMapGenerator"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/nikitafilonov/Documents/free/RandomMapGenerator/RandomMapGenerator/RandomMapView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "230"
+                  endingLineNumber = "230"
+                  offsetFromSymbolStart = "3966">
+               </Location>
+               <Location
+                  uuid = "D789DCE3-98B5-49E9-BB5F-090260D3F3AD - 29a1bef3d9e4796b"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "RandomMapGenerator.RandomMapView.(makeCorridors in _F052088115CB18357B8486ACFC779EFD)() -&gt; ()"
+                  moduleName = "RandomMapGenerator"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/nikitafilonov/Documents/free/RandomMapGenerator/RandomMapGenerator/RandomMapView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "230"
+                  endingLineNumber = "230"
+                  offsetFromSymbolStart = "5978">
+               </Location>
+               <Location
+                  uuid = "D789DCE3-98B5-49E9-BB5F-090260D3F3AD - 29a1bef3d9e4796b"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "RandomMapGenerator.RandomMapView.(makeCorridors in _F052088115CB18357B8486ACFC779EFD)() -&gt; ()"
+                  moduleName = "RandomMapGenerator"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/nikitafilonov/Documents/free/RandomMapGenerator/RandomMapGenerator/RandomMapView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "230"
+                  endingLineNumber = "230"
+                  offsetFromSymbolStart = "7995">
+               </Location>
+               <Location
+                  uuid = "D789DCE3-98B5-49E9-BB5F-090260D3F3AD - 29a1bef3d9e4796b"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "RandomMapGenerator.RandomMapView.(makeCorridors in _F052088115CB18357B8486ACFC779EFD)() -&gt; ()"
+                  moduleName = "RandomMapGenerator"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/nikitafilonov/Documents/free/RandomMapGenerator/RandomMapGenerator/RandomMapView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "230"
+                  endingLineNumber = "230"
+                  offsetFromSymbolStart = "10012">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "C796B180-947A-453D-8BE6-A9597D95D2A0"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "RandomMapGenerator/RandomMapView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "328"
+            endingLineNumber = "328"
+            landmarkName = "makeCorridors()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "AF318D89-489D-4E9D-AB30-E8F700AF4D98"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "RandomMapGenerator/RandomMapView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "330"
+            endingLineNumber = "330"
+            landmarkName = "makeCorridors()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "262B3F2E-F032-4D4D-B864-723CC279EEDA"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "RandomMapGenerator/RandomMapView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "269"
+            endingLineNumber = "269"
+            landmarkName = "makeCorridors()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "262B3F2E-F032-4D4D-B864-723CC279EEDA - 29a1bef3d9e478ce"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "RandomMapGenerator.RandomMapView.(makeCorridors in _F052088115CB18357B8486ACFC779EFD)() -&gt; ()"
+                  moduleName = "RandomMapGenerator"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/nikitafilonov/Documents/free/RandomMapGenerator/RandomMapGenerator/RandomMapView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "233"
+                  endingLineNumber = "233"
+                  offsetFromSymbolStart = "3988">
+               </Location>
+               <Location
+                  uuid = "262B3F2E-F032-4D4D-B864-723CC279EEDA - 29a1bef3d9e478ce"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "RandomMapGenerator.RandomMapView.(makeCorridors in _F052088115CB18357B8486ACFC779EFD)() -&gt; ()"
+                  moduleName = "RandomMapGenerator"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/nikitafilonov/Documents/free/RandomMapGenerator/RandomMapGenerator/RandomMapView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "233"
+                  endingLineNumber = "233"
+                  offsetFromSymbolStart = "13239">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "6CA82EB7-288C-4788-8152-6C21A7640B83"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "RandomMapGenerator/RandomMapView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "283"
+            endingLineNumber = "283"
+            landmarkName = "makeCorridors()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "6CA82EB7-288C-4788-8152-6C21A7640B83 - 29a1bef3d9e47eb8"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "RandomMapGenerator.RandomMapView.(makeCorridors in _F052088115CB18357B8486ACFC779EFD)() -&gt; ()"
+                  moduleName = "RandomMapGenerator"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/nikitafilonov/Documents/free/RandomMapGenerator/RandomMapGenerator/RandomMapView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "247"
+                  endingLineNumber = "247"
+                  offsetFromSymbolStart = "6005">
+               </Location>
+               <Location
+                  uuid = "6CA82EB7-288C-4788-8152-6C21A7640B83 - 29a1bef3d9e47eb8"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "RandomMapGenerator.RandomMapView.(makeCorridors in _F052088115CB18357B8486ACFC779EFD)() -&gt; ()"
+                  moduleName = "RandomMapGenerator"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/nikitafilonov/Documents/free/RandomMapGenerator/RandomMapGenerator/RandomMapView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "247"
+                  endingLineNumber = "247"
+                  offsetFromSymbolStart = "13263">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "CA6FB566-8B24-4608-B57C-753CE8B37B94"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "RandomMapGenerator/RandomMapView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "297"
+            endingLineNumber = "297"
+            landmarkName = "makeCorridors()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "CA6FB566-8B24-4608-B57C-753CE8B37B94 - 29a1bef3d9e47d6a"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "RandomMapGenerator.RandomMapView.(makeCorridors in _F052088115CB18357B8486ACFC779EFD)() -&gt; ()"
+                  moduleName = "RandomMapGenerator"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/nikitafilonov/Documents/free/RandomMapGenerator/RandomMapGenerator/RandomMapView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "261"
+                  endingLineNumber = "261"
+                  offsetFromSymbolStart = "8022">
+               </Location>
+               <Location
+                  uuid = "CA6FB566-8B24-4608-B57C-753CE8B37B94 - 29a1bef3d9e47d6a"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "RandomMapGenerator.RandomMapView.(makeCorridors in _F052088115CB18357B8486ACFC779EFD)() -&gt; ()"
+                  moduleName = "RandomMapGenerator"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/nikitafilonov/Documents/free/RandomMapGenerator/RandomMapGenerator/RandomMapView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "261"
+                  endingLineNumber = "261"
+                  offsetFromSymbolStart = "13279">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "286BCC90-CFDF-49E3-A8F3-6FF466EB2BFD"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "RandomMapGenerator/RandomMapView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "311"
+            endingLineNumber = "311"
+            landmarkName = "makeCorridors()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "286BCC90-CFDF-49E3-A8F3-6FF466EB2BFD - 29a1bef3d9e46324"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "RandomMapGenerator.RandomMapView.(makeCorridors in _F052088115CB18357B8486ACFC779EFD)() -&gt; ()"
+                  moduleName = "RandomMapGenerator"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/nikitafilonov/Documents/free/RandomMapGenerator/RandomMapGenerator/RandomMapView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "275"
+                  endingLineNumber = "275"
+                  offsetFromSymbolStart = "10039">
+               </Location>
+               <Location
+                  uuid = "286BCC90-CFDF-49E3-A8F3-6FF466EB2BFD - 29a1bef3d9e46324"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "RandomMapGenerator.RandomMapView.(makeCorridors in _F052088115CB18357B8486ACFC779EFD)() -&gt; ()"
+                  moduleName = "RandomMapGenerator"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/nikitafilonov/Documents/free/RandomMapGenerator/RandomMapGenerator/RandomMapView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "275"
+                  endingLineNumber = "275"
+                  offsetFromSymbolStart = "13295">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "3CE4FCAB-4DFC-4B5F-BFB8-0B70B86E7976"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "RandomMapGenerator/RandomMapView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "313"
+            endingLineNumber = "313"
+            landmarkName = "makeCorridors()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "4B6A88F1-E84E-4EF4-8EF0-DF1B06A953EA"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "RandomMapGenerator/RandomMapView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "314"
+            endingLineNumber = "314"
+            landmarkName = "makeCorridors()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "F15665AF-4511-49A6-98BF-8C0B10B8450E"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "RandomMapGenerator/RandomMapView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "316"
+            endingLineNumber = "316"
+            landmarkName = "makeCorridors()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "F1423799-0936-4FAA-97FA-417C307BCBB4"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "RandomMapGenerator/RandomMapView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "31"
+            endingLineNumber = "31"
+            landmarkName = "generate()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "92468728-218A-458D-B240-EF1D1C0933E6"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "RandomMapGenerator/ViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "22"
+            endingLineNumber = "22"
+            landmarkName = "viewDidAppear(_:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "A7454983-B490-4F46-91D7-E4EF8CE3318D"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "RandomMapGenerator/RandomMapView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "396"
+            endingLineNumber = "396"
+            landmarkName = "checkInactiveRooms()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "E3C0F935-BEB2-4186-A7E1-6DCC604F7093"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "RandomMapGenerator/RandomMapView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "358"
+            endingLineNumber = "358"
+            landmarkName = "checkInactiveRooms()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "F948A3E3-32AF-44EA-8571-08DB88CDC069"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "RandomMapGenerator/RandomMapView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "369"
+            endingLineNumber = "369"
+            landmarkName = "checkInactiveRooms()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "8D38466C-BD29-4808-999E-EC8DFFAE16D4"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "RandomMapGenerator/RandomMapView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "380"
+            endingLineNumber = "380"
+            landmarkName = "checkInactiveRooms()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "62E2E93A-B758-45C3-9EC1-3166E39B359C"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "RandomMapGenerator/RandomMapView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "391"
+            endingLineNumber = "391"
+            landmarkName = "checkInactiveRooms()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "87B3BE06-91C3-47BA-A5A1-CA7EEFE14839"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "RandomMapGenerator/RandomMapView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "250"
+            endingLineNumber = "250"
+            landmarkName = "makeCorridors()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "26B30182-4F72-4C3D-8CE6-D9DF649AAEED"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "RandomMapGenerator/RandomMapView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "401"
+            endingLineNumber = "401"
+            landmarkName = "connectInactiveRooms()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "280F9484-4879-46FF-AB95-880F1E564C46"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "RandomMapGenerator/RandomMapView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "406"
+            endingLineNumber = "406"
+            landmarkName = "connectInactiveRooms()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "F0BF71FF-9E39-4C3B-82FB-19DAB3AAFF44"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "RandomMapGenerator/RandomMapView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "115"
+            endingLineNumber = "115"
+            landmarkName = "stop()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
