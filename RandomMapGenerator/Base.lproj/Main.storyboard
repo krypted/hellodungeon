@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document type="com.apple.InterfaceBuilder3.CocoaTouch.Storyboard.XIB" version="3.0" toolsVersion="17701" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" useTraitCollections="YES" useSafeAreas="YES" colorMatched="YES" initialViewController="cuq-R4-dLj">
+    <device id="retina6_1" orientation="portrait" appearance="light"/>
+    <dependencies>
+        <deployment identifier="iOS"/>
+        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="17703"/>
+        <capability name="Safe area layout guides" minToolsVersion="9.0"/>
+        <capability name="documents saved in the Xcode 8 format" minToolsVersion="8.0"/>
+    </dependencies>
+    <scenes>
+        <!--Navigation Controller-->
+        <scene sceneID="bJt-As-h8r">
+            <objects>
+                <navigationController id="cuq-R4-dLj" sceneMemberID="viewController">
+                    <navigationBar key="navigationBar" contentMode="scaleToFill" id="Ztx-4g-6KV">
+                        <rect key="frame" x="0.0" y="44" width="414" height="44"/>
+                        <autoresizingMask key="autoresizingMask"/>
+                    </navigationBar>
+                    <connections>
+                        <segue destination="BYZ-38-t0r" kind="relationship" relationship="rootViewController" id="i6h-wQ-fuN"/>
+                    </connections>
+                </navigationController>
+                <placeholder placeholderIdentifier="IBFirstResponder" id="qXx-S1-04h" userLabel="First Responder" customClass="UIResponder" sceneMemberID="firstResponder"/>
+            </objects>
+            <point key="canvasLocation" x="-623" y="40"/>
+        </scene>
+        <!--Basic Dungeon Maps-->
+        <scene sceneID="tne-QT-ifu">
+            <objects>
+                <viewController id="BYZ-38-t0r" customClass="ViewController" customModule="RandomMapGenerator" customModuleProvider="target" sceneMemberID="viewController">
+                    <view key="view" contentMode="scaleToFill" id="8bC-Xf-vdC">
+                        <rect key="frame" x="0.0" y="0.0" width="414" height="896"/>
+                        <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
+                        <subviews>
+                            <view contentMode="scaleToFill" translatesAutoresizingMaskIntoConstraints="NO" id="JS5-5k-mHc" customClass="RandomMapView" customModule="RandomMapGenerator" customModuleProvider="target">
+                                <rect key="frame" x="0.0" y="118" width="414" height="744"/>
+                                <color key="backgroundColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+                            </view>
+                            <button opaque="NO" contentMode="scaleToFill" misplaced="YES" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="system" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="dhd-dE-LGq">
+                                <rect key="frame" x="313" y="88" width="100" height="30"/>
+                                <constraints>
+                                    <constraint firstAttribute="width" constant="100" id="oBw-M1-NfR"/>
+                                </constraints>
+                                <state key="normal" title="Save">
+                                    <color key="titleColor" white="0.0" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+                                </state>
+                                <connections>
+                                    <action selector="saveAction:" destination="BYZ-38-t0r" eventType="touchUpInside" id="omB-5g-9rj"/>
+                                </connections>
+                            </button>
+                            <button opaque="NO" contentMode="scaleToFill" misplaced="YES" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="system" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="3ge-Lm-H9O">
+                                <rect key="frame" x="20" y="88" width="100" height="30"/>
+                                <constraints>
+                                    <constraint firstAttribute="width" constant="100" id="4o7-ML-24B"/>
+                                </constraints>
+                                <state key="normal" title="Create Map">
+                                    <color key="titleColor" white="0.0" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+                                </state>
+                                <connections>
+                                    <action selector="randomAction:" destination="BYZ-38-t0r" eventType="touchUpInside" id="kjO-0l-Y6W"/>
+                                </connections>
+                            </button>
+                        </subviews>
+                        <viewLayoutGuide key="safeArea" id="6Tk-OE-BBY"/>
+                        <color key="backgroundColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+                        <constraints>
+                            <constraint firstItem="JS5-5k-mHc" firstAttribute="top" secondItem="6Tk-OE-BBY" secondAttribute="top" constant="30" id="5Yy-qr-fBE"/>
+                            <constraint firstItem="JS5-5k-mHc" firstAttribute="top" secondItem="3ge-Lm-H9O" secondAttribute="bottom" id="5ng-Zz-Okc"/>
+                            <constraint firstItem="3ge-Lm-H9O" firstAttribute="leading" secondItem="6Tk-OE-BBY" secondAttribute="leading" id="9gn-kH-QWT"/>
+                            <constraint firstItem="3ge-Lm-H9O" firstAttribute="top" secondItem="6Tk-OE-BBY" secondAttribute="top" id="ASQ-wd-90B"/>
+                            <constraint firstItem="6Tk-OE-BBY" firstAttribute="trailing" secondItem="JS5-5k-mHc" secondAttribute="trailing" id="Dsd-J0-cyf"/>
+                            <constraint firstItem="6Tk-OE-BBY" firstAttribute="bottom" secondItem="JS5-5k-mHc" secondAttribute="bottom" id="eiC-yQ-dOI"/>
+                            <constraint firstItem="dhd-dE-LGq" firstAttribute="trailing" secondItem="6Tk-OE-BBY" secondAttribute="trailing" id="p6v-E2-8Bv"/>
+                            <constraint firstItem="JS5-5k-mHc" firstAttribute="top" secondItem="dhd-dE-LGq" secondAttribute="bottom" id="pBF-U9-slI"/>
+                            <constraint firstItem="dhd-dE-LGq" firstAttribute="top" secondItem="6Tk-OE-BBY" secondAttribute="top" id="yYp-UT-3bh"/>
+                            <constraint firstItem="JS5-5k-mHc" firstAttribute="leading" secondItem="6Tk-OE-BBY" secondAttribute="leading" id="yfl-vM-qmf"/>
+                        </constraints>
+                    </view>
+                    <navigationItem key="navigationItem" title="Basic Dungeon Maps" id="VEE-Il-JMh"/>
+                    <connections>
+                        <outlet property="mapView" destination="JS5-5k-mHc" id="s2J-Ju-qlg"/>
+                    </connections>
+                </viewController>
+                <placeholder placeholderIdentifier="IBFirstResponder" id="dkx-z0-nzr" sceneMemberID="firstResponder"/>
+            </objects>
+            <point key="canvasLocation" x="445" y="40"/>
+        </scene>
+    </scenes>
+</document>
